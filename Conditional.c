@@ -41,7 +41,7 @@ int main(void)
         break;
 
     default:
-        printf("greater than 9");
+        printf("Greater than 9");
         break;
     }
 }
