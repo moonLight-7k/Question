@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.String;
 
-public class subStringComparision {
+public class subStringComparison {
 
     public static void main(String[] args) {
 
@@ -22,6 +22,7 @@ public class subStringComparision {
                 largest = substring;
             }
         }
+    
 
         System.out.print(smallest + "\n" + largest);
 
