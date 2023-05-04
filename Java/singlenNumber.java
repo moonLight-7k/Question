@@ -1,4 +1,4 @@
-public class linkedListCycle {
+public class singlenNumber {
     public int singleNumber(int[] nums) {
 
         int len = nums.length;
