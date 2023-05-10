@@ -1,10 +1,13 @@
 # Questions
 Welcome to my repository! This is a collection of my HackeRank, LeetCode and CodeChef questions , that I would like to share with the community.
 
-## Language
- [Java](https://github.com/moonLight-7k/Question/tree/main/Java)
+### Language
+#### JAVA
+ - [LeetCode Solution](https://github.com/moonLight-7k/Question/tree/main/Java)
+ - [Basic Questions](https://github.com/moonLight-7k/Question/tree/main/Java/PPS%20Java)
  
- [C Language](https://github.com/moonLight-7k/Question/tree/main/C%20Language)
+ #### C Language
+ - [Questions](https://github.com/moonLight-7k/Question/tree/main/C%20Language)
 
 ## License
 This repository is licensed under the [MIT License](https://github.com/moonLight-7k/Hacker-Rank-Question/blob/main/LICENSE). This means you are free to use, copy, modify, and distribute the code in this repository for any non-commercial purposes, as long as you provide proper attribution to the original author (me).
