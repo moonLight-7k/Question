@@ -2,21 +2,21 @@ class Solution {
     public boolean isSubsequence(String s, String t) {
 
         int i = 0, j = 0;
-        int n = t.length();
-        int m = s.length();
-        char S[] = s.toCharArray();
-        char D[] = t.toCharArray();
+        int tLen = t.length();
+        int mLen = s.length();
+        char sArr[] = s.toCharArray();
+        char dArr[] = t.toCharArray();
 
-        if (m < 1)
+        if (mLen < 1)
             return true;
 
-        while (i < n) {
-            if (D[i] == S[j]) {
+        while (i < tLen) {
+            if (dArr[i] == sArr[j]) {
                 j++;
             }
             i++;
 
-            if (j == m)
+            if (j == mLen)
                 return true;
         }
 
